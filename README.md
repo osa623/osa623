@@ -1,257 +1,400 @@
-<!-- ===================== HERO ===================== -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=OSA623&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Code%20Enthusiast&descAlignY=55&descAlign=50"
-    width="100%"
-    alt="OSA623 - Developer Profile"
-  />
-</p>
-
-<!-- ===================== ANIMATED TYPING ===================== -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!+👋;Fullstack+Developer+💻;React+%7C+Next.js+%7C+Node.js+Expert;Building+Scalable+Web+Applications;Clean+Code+%7C+Best+Practices;Always+Learning+New+Technologies+🚀;Open+Source+Contributor+🌟"
-      alt="Typing animation"
-    />
-  </a>
-</p>
-
-<!-- ===================== SOCIAL BADGES ===================== -->
-<p align="center">
-  <a href="mailto:yeharadananjaya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/yehara-dananjaya">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/yehara_dananjaya">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://fb.com/yehara.dananjaya">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
-
-<!-- ===================== PROFILE STATS ===================== -->
-<p align="center">
-  <a href="https://github.com/osa623?tab=followers">
-    <img src="https://img.shields.io/github/followers/osa623?label=Followers&style=for-the-badge&color=6AD3F7&labelColor=1a1b27" alt="Followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=osa623&label=Profile%20Views&color=6AD3F7&style=for-the-badge&labelColor=1a1b27" alt="Profile Views" />
-  <a href="https://github.com/osa623?tab=repositories">
-    <img src="https://img.shields.io/badge/Total%20Repos-50+-6AD3F7?style=for-the-badge&labelColor=1a1b27" alt="Total Repos" />
-  </a>
-</p>
-
-<!-- ===================== ANIMATED DIVIDER ===================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ===================== ABOUT ME ===================== -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-  About Me
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-</h2>
-
 <div align="center">
 
-```yaml
-name: OSA623
-located_in: Sri Lanka
-current_focus: Building modern web applications
-education: 
-  - "SLIIT - IT Student"
-  - "Specialized in Software Engineering"
-  
-interests:
-  - Web Development
-  - Mobile Development
-  - Cloud Technologies
-  - Open Source  
+# 🌟 Welcome to OSA623's Digital Universe 🌟
 
-currently_learning:
-  - Angular
-  - React Native
-  - AWS Cloud Services
-  - DevOps Practices
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=OSA623&fontSize=70&color=0:8A2BE2,50:4B0082,100:000080&stroke=FFFFFF&strokeWidth=2&fontColor=FFFFFF&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20Tech%20Innovator%20%7C%20Code%20Craftsman&descSize=20&descAlignY=75" width="100%"/>
 
-open_to:
-  - Internships
-  - Freelance Projects
-  - Collaboration
-  - Open Source Contributions
-```
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=👨‍💻+Fullstack+Developer+%7C+Code+Architect;🚀+Building+Next-Gen+Web+Applications;💡+React+•+Node.js+•+TypeScript+Expert;🎯+Clean+Code+•+Best+Practices+•+Innovation;🌐+Open+Source+Enthusiast+•+Tech+Explorer;✨+Transforming+Ideas+Into+Reality" alt="Typing SVG" />
+
+---
+
+### 🌐 Connect With Me | Let's Build Something Amazing Together
+
+<p align="center">
+  <a href="mailto:yeharadananjaya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8A2BE2" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yehara-dananjaya" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8A2BE2" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/yehara_dananjaya" target="_blank">
+    <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=8A2BE2" alt="Instagram" />
+  </a>
+  <a href="https://fb.com/yehara.dananjaya" target="_blank">
+    <img src="https://img.shields.io/badge/👥_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=8A2BE2" alt="Facebook" />
+  </a>
+</p>
+
+### 📊 Live GitHub Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/osa623?label=👥%20Followers&style=for-the-badge&color=8A2BE2&labelColor=4B0082&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=osa623&label=👁️%20Profile%20Views&color=8A2BE2&style=for-the-badge&labelColor=4B0082" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/osa623?label=⭐%20Total%20Stars&style=for-the-badge&color=FFD700&labelColor=8A2BE2&logo=github" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=🎯%20Total%20Repos&query=$.public_repos&url=https://api.github.com/users/osa623&style=for-the-badge&color=8A2BE2&labelColor=4B0082&logo=github" alt="Total Repos" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-<!-- ===================== TECH STACK ===================== -->
+## 💫 About Me
+
+<table align="center">
+<tr>
+<td width="50%">
+
+```typescript
+const OSA623 = {
+    name: "Yehara Dananjaya",
+    location: "🇱🇰 Sri Lanka",
+    role: "Fullstack Developer",
+    
+    education: {
+        university: "SLIIT",
+        degree: "BSc in IT",
+        specialization: "Software Engineering"
+    },
+    
+    passions: [
+        "🌐 Web Development",
+        "📱 Mobile Apps",
+        "☁️ Cloud Technologies",
+        "🤝 Open Source"
+    ],
+    
+    currentlyLearning: {
+        frontend: ["Angular", "React Native"],
+        backend: ["Microservices", "GraphQL"],
+        cloud: ["AWS", "Azure"],
+        devops: ["Docker", "Kubernetes", "CI/CD"]
+    },
+    
+    lookingFor: [
+        "💼 Internship Opportunities",
+        "🚀 Freelance Projects",
+        "🤝 Collaboration",
+        "⭐ Open Source Contributions"
+    ],
+    
+    motto: "Code with passion, build with purpose!"
+};
+```
+
+</td>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding"/>
+
+### 🎯 Quick Facts
+
+- 🔭 Working on **modern web applications**
+- 🌱 Growing expertise in **cloud architecture**
+- 👯 Open to **collaborate** on innovative projects
+- 💬 Ask me about **React, Node.js, TypeScript**
+- ⚡ Fun fact: I debug with `console.log()` and I'm proud of it! 😄
+
+</td>
+</tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-  Tech Stack & Tools
-</h2>
+## 🛠️ Tech Arsenal | Skills & Technologies
 
-<h3 align="center">💻 Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&theme=dark&perline=6" alt="Languages" />
+<div align="center">
+
+### 💻 Core Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h3 align="center">🚀 Frameworks & Libraries</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,angular,redux,tailwind,materialui,bootstrap&theme=dark&perline=10" alt="Frameworks" />
+### ⚡ Frontend Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-<h3 align="center">🗄️ Databases & Backend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma,firebase,supabase&theme=dark&perline=6" alt="Databases" />
+### 🚀 Backend & Runtime
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-<h3 align="center">🛠️ Tools & Platforms</h3>
+### 🗄️ Databases & Cloud Services
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
+### 🛠️ DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+### 🔧 Build Tools & Package Managers
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Analytics | Performance Dashboard
+
+<div align="center">
+
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=osa623&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=osa623&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered" height="200" alt="GitHub stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=osa623&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=FF6B6B&currStreakLabel=8A2BE2&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&sideNums=FFFFFF&border_radius=10" height="200" alt="GitHub streak" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osa623&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF&border_radius=10&langs_count=10&hide=html,css&card_width=300" height="200" alt="Top languages" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osa623&theme=radical&utcOffset=5.30" height="200" alt="Productive time" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=osa623&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FF6B6B&title_color=FFFFFF&area_color=8A2BE2" alt="Activity graph" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+### 📈 Additional Statistics
+
+<!-- WakaTime Stats: Requires WakaTime account linked to GitHub. Learn more at: https://wakatime.com/github -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma,ps,aws,vercel,netlify&theme=dark&perline=10" alt="Tools" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=osa623&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF&border_radius=10" alt="WakaTime Stats" />
 </p>
 
 <details>
-  <summary><h3>🔧 More Tools & Technologies</h3></summary>
+  <summary><b>🔍 More Detailed Stats</b></summary>
   <br/>
   <p align="center">
-    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-    <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osa623&theme=radical" alt="Profile Details" width="100%"/>
+  </p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osa623&theme=radical" width="48%" alt="Repos per Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osa623&theme=radical" width="48%" alt="Most Commit Language"/>
+  </p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osa623&theme=radical" width="48%" alt="Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osa623&theme=radical&utcOffset=5.30" width="48%" alt="Commits"/>
   </p>
 </details>
 
-<!-- ===================== GITHUB STATS ===================== -->
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">
-  📊 GitHub Statistics
-</h2>
+## 🐍 Contribution Snake Animation
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osa623&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9" height="180" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=osa623&theme=tokyonight&hide_border=true&background=1a1b27&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" height="180" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osa623&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6AD3F7&text_color=c9d1d9&langs_count=10" height="180" alt="Top languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osa623&theme=tokyonight&utcOffset=5.30" height="180" alt="Productive time" />
-</div>
-
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=osa623&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=6AD3F7&line=6AD3F7&point=ffffff"
-    alt="Activity graph"
-  />
-</p>
-
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osa623/osa623/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osa623/osa623/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/osa623/osa623/output/github-snake.svg" />
+    <img alt="Snake animation eating contributions" src="https://raw.githubusercontent.com/osa623/osa623/output/github-snake-dark.svg" width="100%"/>
   </picture>
-</p>
+</div>
 
-<!-- ===================== TROPHY ===================== -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osa623&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">
-  🚀 Featured Projects
-</h2>
+## 🚀 Featured Projects | Portfolio Highlights
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=osa623&repo=it22170798&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9)](https://github.com/osa623/it22170798)
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/osa623/it22170798">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=osa623&repo=it22170798&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&border_radius=10" alt="it22170798" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🎯 Project Highlights</h3>
+      <p align="left">
+        • 🌟 Innovative Solutions<br/>
+        • 💡 Clean Architecture<br/>
+        • 🚀 Performance Optimized<br/>
+        • 📱 Responsive Design<br/>
+        • 🔒 Security First
+      </p>
+    </td>
+  </tr>
+</table>
 
-</div>
-
-<p align="center">
+<p>
   <a href="https://github.com/osa623?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-6AD3F7?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+    <img src="https://img.shields.io/badge/📂_View%20All%20Repositories-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
   </a>
   <a href="https://github.com/osa623?tab=stars">
-    <img src="https://img.shields.io/badge/Starred%20Projects-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starred projects" />
+    <img src="https://img.shields.io/badge/⭐_Starred%20Projects-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starred projects" />
   </a>
 </p>
 
-<!-- ===================== LATEST BLOG POSTS ===================== -->
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">
-  📝 Latest Activity
-</h2>
+## 📝 Latest GitHub Activity
+
+<div align="center">
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<!-- ===================== CONNECT WITH ME ===================== -->
+<p><i>⚡ Recent activity will be automatically updated here</i></p>
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">
-  🤝 Let's Connect!
-</h2>
+## 💭 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 Let's Collaborate! | Connect & Build Together
+
+<div align="center">
+
+### 💼 I'm Available For
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>💼</h3>
+      <b>Internships</b><br/>
+      <sub>Full-time opportunities</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🚀</h3>
+      <b>Freelance</b><br/>
+      <sub>Project-based work</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🤝</h3>
+      <b>Collaboration</b><br/>
+      <sub>Open source & team projects</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>📚</h3>
+      <b>Mentoring</b><br/>
+      <sub>Knowledge sharing</sub>
+    </td>
+  </tr>
+</table>
+
+### 📬 Get In Touch
+
 
 <p align="center">
   <a href="mailto:yeharadananjaya@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8A2BE2" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/yehara-dananjaya">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8A2BE2" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/yehara_dananjaya">
+    <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=8A2BE2" alt="Instagram" />
+  </a>
+  <a href="https://fb.com/yehara.dananjaya">
+    <img src="https://img.shields.io/badge/👥_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=8A2BE2" alt="Facebook" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House" alt="Quote" />
+  <img src="https://komarev.com/ghpvc/?username=osa623&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/osa623?label=Followers&style=for-the-badge&color=8A2BE2" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-8A2BE2?style=for-the-badge" alt="focus" />
 </p>
 
-<!-- ===================== FOOTER ===================== -->
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Feel+free+to+explore+my+repositories;Let's+build+something+amazing+together!+🚀" alt="Footer typing" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"
-    width="100%"
-    alt="Footer banner"
-  />
-</p>
+## 🎯 Life Motto
 
-<!-- ===================== VISITORS COUNT ===================== -->
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=osa623&icon=5&color=6" alt="Visitors count" />
+<table>
+  <tr>
+    <td>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=💡+%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+-+Steve+Jobs;🚀+%22Code+is+like+humor.+When+you+explain+it%2C+it's+bad.%22+-+Cory+House;✨+%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;🎯+%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+-+Kent+Beck;💻+%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22" alt="Typing SVG" /></td>
+  </tr>
+</table>
+
+### 🙏 Thank You for Visiting!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=✨+Thanks+for+stopping+by!;🚀+Let's+build+something+amazing+together!;💡+Feel+free+to+explore+my+repositories;🤝+Always+open+to+interesting+projects;⭐+Don't+forget+to+star+if+you+like+my+work!" alt="Footer typing" />
+
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
 </p>
 
 ---
 
-<div align="center">
-  
-### 💡 "First, solve the problem. Then, write the code." - John Johnson
+<p>
+  <b>💝 Made with passion, dedication, and lots of ☕ by <a href="https://github.com/osa623">OSA623</a></b><br/>
+  <sub>⭐ Star my repos if you find them useful! | 🤝 Let's connect and collaborate!</sub>
+</p>
 
-Made with ❤️ and ☕ by [OSA623](https://github.com/osa623)
-
-⭐ From [osa623](https://github.com/osa623)
 </div>
