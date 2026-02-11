@@ -1,10 +1,15 @@
 <div align="center">
 
 ```
- YEHARA DANANJAYA 
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║              Y E H A R A   D A N A N J A Y A         ║
+║                                                      ║
+║              Fullstack Developer                     ║
+║              Software Engineering · SLIIT            ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
-
-<b>Fullstack Developer</b> · Software Engineering · SLIIT · Sri Lanka
 
 </div>
 
@@ -12,142 +17,169 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-<h3>Profile</h3>
+### About
 
-Software engineering undergraduate building web and mobile
-systems with an emphasis on architecture, performance, and
-maintainability.
+Software engineering undergraduate with a deliberate focus on
+building systems that are structurally sound, performant, and
+maintainable at scale.
 
-Focused on delivering production-grade applications using
-modern frameworks and scalable backend patterns.
-
-</td>
-<td width="50%" valign="top">
-
-<h3>Current Focus</h3>
-
-```
- Working With    React · Node.js · TypeScript · Next.js
- Exploring       Cloud architecture · Microservices · Containers
- Available For   Internships · Freelance · Open source
-```
+Interested in the intersection of frontend precision and
+backend resilience — writing code that survives production.
 
 </td>
-</tr>
-</table>
+<td width="45%" valign="top">
 
----
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<b>Languages</b>
+### At a Glance
 
 ```
-JavaScript
-TypeScript
-Python
-Java
-HTML / CSS
-```
-
-</td>
-<td width="33%" valign="top">
-
-<b>Frontend</b>
-
-```
-React
-Next.js
-Angular
-Redux
-Tailwind CSS
-```
-
-</td>
-<td width="34%" valign="top">
-
-<b>Backend</b>
-
-```
-Node.js
-Express.js
-NestJS
-Flask
-GraphQL
-```
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-<b>Data</b>
-
-```
-MongoDB
-MySQL
-PostgreSQL
-Firebase
-Redis
-```
-
-</td>
-<td width="33%" valign="top">
-
-<b>Mobile</b>
-
-```
-Flutter
-React Native
-```
-
-</td>
-<td width="34%" valign="top">
-
-<b>Infrastructure</b>
-
-```
-Git
-Docker
-AWS
-Vercel
-Figma
+Building With ── React · Node.js · TypeScript · Next.js
+Investigating ── Cloud patterns · Containers · Microservices
+Open To       ── Internships · Freelance · Collaboration
 ```
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
 <div align="center">
 
-<h3>Metrics</h3>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=osa623&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&icon_color=888888&title_color=ffffff&text_color=aaaaaa" alt="GitHub Stats" width="48%" />
+```
+────────────────────────  STACK  ────────────────────────
+```
 
 </div>
 
----
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Languages**
+
+```
+ JavaScript
+ TypeScript
+ Python
+ Java
+ HTML / CSS
+```
+
+</td>
+<td width="33%" valign="top">
+
+**Frontend**
+
+```
+ React
+ Next.js
+ Angular
+ Redux
+ Tailwind CSS
+```
+
+</td>
+<td width="34%" valign="top">
+
+**Backend**
+
+```
+ Node.js
+ Express.js
+ NestJS
+ Flask
+ GraphQL
+```
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Data**
+
+```
+ MongoDB
+ MySQL
+ PostgreSQL
+ Firebase
+ Redis
+```
+
+</td>
+<td width="33%" valign="top">
+
+**Mobile**
+
+```
+ Flutter
+ React Native
+```
+
+</td>
+<td width="34%" valign="top">
+
+**Tooling**
+
+```
+ Git
+ Docker
+ AWS
+ Vercel
+ Figma
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+```
+───────────────────────  METRICS  ──────────────────────
+```
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=osa623&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&icon_color=888888&title_color=ffffff&text_color=aaaaaa" alt="GitHub Stats" width="52%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+──────────────────────  CONTACT  ───────────────────────
+```
+
+</div>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-<b>yeharadananjaya@gmail.com</b><br/>
-<a href="mailto:yeharadananjaya@gmail.com">Email</a>
+**yeharadananjaya@gmail.com**
+
+<a href="mailto:yeharadananjaya@gmail.com">Send Mail</a>
 
 </td>
 <td width="50%" align="center">
 
-<b>yehara-dananjaya</b><br/>
-<a href="https://linkedin.com/in/yehara-dananjaya">LinkedIn</a>
+**yehara-dananjaya**
+
+<a href="https://linkedin.com/in/yehara-dananjaya">View LinkedIn</a>
 
 </td>
 </tr>
