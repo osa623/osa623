@@ -1,82 +1,156 @@
-# Yehara Dananjaya
+<div align="center">
 
-Fullstack Developer | Software Engineering Undergraduate at SLIIT
+```
+ YEHARA DANANJAYA 
+```
 
-Sri Lanka
+**Fullstack Developer** · Software Engineering · SLIIT · Sri Lanka
 
----
+</div>
 
-## About
-
-I build web and mobile applications with a focus on clean architecture and practical solutions. Currently pursuing a BSc in IT with a specialization in Software Engineering at SLIIT.
-
-**Currently working with:** React, Node.js, TypeScript, Next.js
-
-**Exploring:** Cloud architecture, microservices, containerization
-
-**Open to:** Internships, freelance projects, and open-source collaboration
-
----
-
-## Skills
-
-**Languages:** JavaScript, TypeScript, Python, Java, HTML, CSS
-
-**Frontend:** React, Next.js, Angular, Redux, Tailwind CSS
-
-**Backend:** Node.js, Express.js, NestJS, Flask, GraphQL
-
-**Databases:** MongoDB, MySQL, PostgreSQL, Firebase, Redis
-
-**Mobile:** Flutter, React Native
-
-**DevOps / Tools:** Git, Docker, AWS, Vercel, Figma
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osa623&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&icon_color=888888&title_color=000000&text_color=555555" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osa623&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=888888&fire=000000&currStreakLabel=000000&sideLabels=555555&currStreakNum=000000&sideNums=555555&dates=999999" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osa623&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=555555&langs_count=8" alt="Top Languages" />
-</p>
-
-<details>
-<summary>More stats</summary>
 <br/>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osa623&theme=default" alt="Profile Details" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osa623&theme=default" width="48%" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osa623&theme=default" width="48%" alt="Most Commit Language"/>
-</p>
-</details>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Profile
+
+Software engineering undergraduate building web and mobile
+systems with an emphasis on architecture, performance, and
+maintainability.
+
+Focused on delivering production-grade applications using
+modern frameworks and scalable backend patterns.
+
+</td>
+<td width="50%" valign="top">
+
+### Current Focus
+
+```
+ Working With    React · Node.js · TypeScript · Next.js
+ Exploring       Cloud architecture · Microservices · Containers
+ Available For   Internships · Freelance · Open source
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Contribution Graph
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osa623&theme=minimal&hide_border=true&area=true&color=555555&line=888888&point=333333" alt="Contribution Graph" width="100%"/>
-</p>
+**Languages**
+```
+JavaScript
+TypeScript
+Python
+Java
+HTML / CSS
+```
+
+</td>
+<td width="33%" valign="top">
+
+**Frontend**
+```
+React
+Next.js
+Angular
+Redux
+Tailwind CSS
+```
+
+</td>
+<td width="34%" valign="top">
+
+**Backend**
+```
+Node.js
+Express.js
+NestJS
+Flask
+GraphQL
+```
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**Data**
+```
+MongoDB
+MySQL
+PostgreSQL
+Firebase
+Redis
+```
+
+</td>
+<td width="33%" valign="top">
+
+**Mobile**
+```
+Flutter
+React Native
+```
+
+</td>
+<td width="34%" valign="top">
+
+**Infrastructure**
+```
+Git
+Docker
+AWS
+Vercel
+Figma
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Contact
+<div align="center">
 
-- Email: [yeharadananjaya@gmail.com](mailto:yeharadananjaya@gmail.com)
-- LinkedIn: [yehara-dananjaya](https://linkedin.com/in/yehara-dananjaya)
+### Metrics
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=osa623&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&icon_color=888888&title_color=ffffff&text_color=aaaaaa" alt="GitHub Stats" width="48%" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=osa623&label=Profile%20Views&color=grey&style=flat" alt="Profile views" />
-</p>
+<table>
+<tr>
+<td width="50%" align="center">
+
+**yeharadananjaya@gmail.com**
+[Email](mailto:yeharadananjaya@gmail.com)
+
+</td>
+<td width="50%" align="center">
+
+**yehara-dananjaya**
+[LinkedIn](https://linkedin.com/in/yehara-dananjaya)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=osa623&label=views&color=grey&style=flat-square" alt="Profile views" />
+
+</div>
