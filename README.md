@@ -192,7 +192,7 @@ const OSA623 = {
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=osa623&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="200" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=osa623&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered" height="200" alt="GitHub stats" />
     </td>
     <td width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=osa623&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=FF6B6B&currStreakLabel=8A2BE2&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&sideNums=FFFFFF&border_radius=10" height="200" alt="GitHub streak" />
@@ -215,6 +215,7 @@ const OSA623 = {
 
 ### 📈 Additional Statistics
 
+<!-- Note: WakaTime stats will display only if WakaTime is configured and linked to this GitHub account -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=osa623&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF&border_radius=10" alt="WakaTime Stats" />
 </p>
@@ -304,8 +305,6 @@ const OSA623 = {
 ## 💭 Random Dev Quote
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay&border=true" alt="Dev Quote" />
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
