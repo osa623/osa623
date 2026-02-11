@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/github/followers/osa623?label=👥%20Followers&style=for-the-badge&color=8A2BE2&labelColor=4B0082&logo=github" alt="Followers" />
   <img src="https://komarev.com/ghpvc/?username=osa623&label=👁️%20Profile%20Views&color=8A2BE2&style=for-the-badge&labelColor=4B0082" alt="Profile Views" />
   <img src="https://img.shields.io/github/stars/osa623?label=⭐%20Total%20Stars&style=for-the-badge&color=FFD700&labelColor=8A2BE2&logo=github" alt="Total Stars" />
-  <img src="https://img.shields.io/badge/🎯_Total%20Repos-50+-8A2BE2?style=for-the-badge&labelColor=4B0082" alt="Total Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=🎯%20Total%20Repos&query=$.public_repos&url=https://api.github.com/users/osa623&style=for-the-badge&color=8A2BE2&labelColor=4B0082&logo=github" alt="Total Repos" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -215,7 +215,7 @@ const OSA623 = {
 
 ### 📈 Additional Statistics
 
-<!-- Note: WakaTime stats will display only if WakaTime is configured and linked to this GitHub account -->
+<!-- WakaTime Stats: Requires WakaTime account linked to GitHub. Learn more at: https://wakatime.com/github -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=osa623&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF&border_radius=10" alt="WakaTime Stats" />
 </p>
@@ -321,22 +321,22 @@ const OSA623 = {
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/work.png" width="50"/><br/>
+      <h3>💼</h3>
       <b>Internships</b><br/>
       <sub>Full-time opportunities</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/project.png" width="50"/><br/>
+      <h3>🚀</h3>
       <b>Freelance</b><br/>
       <sub>Project-based work</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="50"/><br/>
+      <h3>🤝</h3>
       <b>Collaboration</b><br/>
       <sub>Open source & team projects</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/consultant.png" width="50"/><br/>
+      <h3>📚</h3>
       <b>Mentoring</b><br/>
       <sub>Knowledge sharing</sub>
     </td>
