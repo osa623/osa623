@@ -4,7 +4,7 @@
  YEHARA DANANJAYA 
 ```
 
-**Fullstack Developer** · Software Engineering · SLIIT · Sri Lanka
+<b>Fullstack Developer</b> · Software Engineering · SLIIT · Sri Lanka
 
 </div>
 
@@ -14,7 +14,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### Profile
+<h3>Profile</h3>
 
 Software engineering undergraduate building web and mobile
 systems with an emphasis on architecture, performance, and
@@ -26,7 +26,7 @@ modern frameworks and scalable backend patterns.
 </td>
 <td width="50%" valign="top">
 
-### Current Focus
+<h3>Current Focus</h3>
 
 ```
  Working With    React · Node.js · TypeScript · Next.js
@@ -44,7 +44,8 @@ modern frameworks and scalable backend patterns.
 <tr>
 <td width="33%" valign="top">
 
-**Languages**
+<b>Languages</b>
+
 ```
 JavaScript
 TypeScript
@@ -56,7 +57,8 @@ HTML / CSS
 </td>
 <td width="33%" valign="top">
 
-**Frontend**
+<b>Frontend</b>
+
 ```
 React
 Next.js
@@ -68,7 +70,8 @@ Tailwind CSS
 </td>
 <td width="34%" valign="top">
 
-**Backend**
+<b>Backend</b>
+
 ```
 Node.js
 Express.js
@@ -82,7 +85,8 @@ GraphQL
 <tr>
 <td width="33%" valign="top">
 
-**Data**
+<b>Data</b>
+
 ```
 MongoDB
 MySQL
@@ -94,7 +98,8 @@ Redis
 </td>
 <td width="33%" valign="top">
 
-**Mobile**
+<b>Mobile</b>
+
 ```
 Flutter
 React Native
@@ -103,7 +108,8 @@ React Native
 </td>
 <td width="34%" valign="top">
 
-**Infrastructure**
+<b>Infrastructure</b>
+
 ```
 Git
 Docker
@@ -120,7 +126,7 @@ Figma
 
 <div align="center">
 
-### Metrics
+<h3>Metrics</h3>
 
 <br/>
 
@@ -134,14 +140,14 @@ Figma
 <tr>
 <td width="50%" align="center">
 
-**yeharadananjaya@gmail.com**
-[Email](mailto:yeharadananjaya@gmail.com)
+<b>yeharadananjaya@gmail.com</b><br/>
+<a href="mailto:yeharadananjaya@gmail.com">Email</a>
 
 </td>
 <td width="50%" align="center">
 
-**yehara-dananjaya**
-[LinkedIn](https://linkedin.com/in/yehara-dananjaya)
+<b>yehara-dananjaya</b><br/>
+<a href="https://linkedin.com/in/yehara-dananjaya">LinkedIn</a>
 
 </td>
 </tr>
