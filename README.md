@@ -49,9 +49,7 @@ const osanda = {
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osa623&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-  
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=osa623&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osa623&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 
 </div>
 
