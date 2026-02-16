@@ -59,23 +59,23 @@ const osanda = {
 
 <div align="center">
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osa623&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osa623&theme=tokyonight" alt="Profile Details" />
 
 </div>
 
 <div align="center">
   
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=osa623&theme=tokyonight" alt="Stats Card" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osa623&theme=tokyonight" alt="Stats Card" />
   
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osa623&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osa623&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 
 </div>
 
 <div align="center">
   
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osa623&theme=tokyonight" alt="Repos Per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osa623&theme=tokyonight" alt="Repos Per Language" />
   
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osa623&theme=tokyonight" alt="Most Commit Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osa623&theme=tokyonight" alt="Most Commit Language" />
 
 </div>
 
