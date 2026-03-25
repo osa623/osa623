@@ -125,11 +125,7 @@
 <div align="center">
 
 ```text
-🔭 Working on innovative web and mobile applications
-🌱 Exploring Cloud Architecture and Microservices
-💡 Open to collaboration on interesting projects
-🎓 Software Engineering Student at SLIIT
-⚡ Fun fact: I debug with console.log() and I'm not ashamed!
+Crunching data, decoding patterns, the model says “nice try,” and losing patience but still okayyyy
 ```
 
 </div>
