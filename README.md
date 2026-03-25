@@ -10,30 +10,6 @@
 
 ---
 
-## 🚀 About Me
-
-```typescript
-const osanda = {
-    name: "Osanda Hirushaka",
-    role: "Full Stack Developer",
-    institution: "SLIIT - Sri Lanka Institute of Information Technology",
-    location: "Sri Lanka 🇱🇰",
-    
-    passions: ["Coding", "Problem Solving", "Open Source", "Learning"],
-    currentFocus: ["Web Development", "Mobile Development", "Cloud Computing"],
-    
-    code: ["JavaScript", "TypeScript", "Python", "Java", "Dart"],
-    technologies: {
-        frontend: ["React", "Next.js", "Angular", "Vue.js", "Flutter"],
-        backend: ["Node.js", "Express", "NestJS", "Django", "Flask"],
-        database: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-        devOps: ["Docker", "AWS", "Git", "GitHub Actions"],
-        mobile: ["Flutter", "React Native"]
-    },
-    
-    motto: "Building scalable solutions, one commit at a time! 💻"
-};
-```
 
 ---
 
