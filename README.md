@@ -8,11 +8,6 @@
   <a href="https://github.com/osa623?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-brightgreen?style=for-the-badge" alt="Repositories" /></a>
 </p>
 
----
-
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
